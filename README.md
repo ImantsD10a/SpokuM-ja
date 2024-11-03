@@ -1,1 +1,1 @@
-# SpokuM-ja
+# SpokuMaja
